@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ##Login Page<br>
 ##username:Amit<br>
 ##Password:pandey<br>
+##cd first-app<br>
+##npm install<br>
+by this we install the all dependence<br>
 ## Available Scripts
 
 In the project directory, you can run:
