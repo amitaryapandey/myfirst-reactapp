@@ -1,7 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-##Login Page
-##username:Amit
-##Password:pandey
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
+##Login Page<br>
+##username:Amit<br>
+##Password:pandey<br>
 ## Available Scripts
 
 In the project directory, you can run:
