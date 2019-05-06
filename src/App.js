@@ -5,10 +5,12 @@ import AdminPanel from './Components/AdminPanel/AdminPanel'
 import PageError from './Components/PageError'
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+
 export default class App extends Component {
   render() {
     return (
       <div>
+        <h1>New React App</h1>
         <Router>
           <Switch>
             <Route exact path="/" component={Login}/>
